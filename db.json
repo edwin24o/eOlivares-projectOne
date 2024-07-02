@@ -1,0 +1,95 @@
+{
+  "exercises": [
+    {
+      "id": "1",
+      "name": "Push-Ups",
+      "category": "Upper Body",
+      "difficulty": "Beginner",
+      "description": "1.Place your hands firmly on the ground, directly under shoulders. 2.Flatten your back so your entire body is straight and slowly lower your body 3.Draw shoulder blades back and down, keeping elbows tucked close to your body 4.Exhale as you push back to the starting position.",
+      "likes": 6,
+      "dislikes": 2,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2023/02/negative-push-up-step-2-768x598.png"
+    },
+    {
+      "id": "2",
+      "name": "Squat",
+      "category": "Lower Body",
+      "difficulty": "Intermediate",
+      "description": "1.Stand with your feet shoulder-width apart. Maintain the natural arch in your back, squeezing your shoulder blades and raising your chest. 2.Grip the bar across your shoulders and support it on your upper back. Unwrack the bar by straightening your legs, and take a step back. 3.Bend your knees as you lower the weight without altering the form of your back until your hips are below your knees. 4.Raise the bar back to starting position, lift with your legs and exhale at the top.",
+      "likes": 12,
+      "dislikes": 2,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2022/05/high-bar-squat-768x447.png"
+    },
+    {
+      "id": "3",
+      "name": "Pull-Up",
+      "category": "Upper Body",
+      "difficulty": "Intermediate",
+      "description": "1.Grasp the bar with an overhand grip, arms and shoulders fully extended. 2.Pull your body up until your chin is above the bar. 3.Lower your body back to starting position.",
+      "likes": 0,
+      "dislikes": 0,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2022/11/chin-up-muscles-1024x724.png"
+    },
+    {
+      "id": "4",
+      "name": "Plank",
+      "category": "Core",
+      "difficulty": "Beginner",
+      "description": "1.Start in a kneeling position with your hands planted on the ground. 2.Pick your knees up off the ground. Hold in this position with a flat back",
+      "likes": 0,
+      "dislikes": 0,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2023/06/plank-muscles-worked-768x150.png"
+    },
+    {
+      "id": "5",
+      "name": "Bench Press",
+      "category": "Upper Body",
+      "difficulty": "Intermediate",
+      "description": "1. Lay flat on the bench with your feet on the ground, with straight arms unrack the bar 2.Lower the bar to your mid chest. 3.Raise the bar until you've locked your elbows.",
+      "likes": 2,
+      "dislikes": 0,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2024/02/barbell-pin-press-muscles-1024x619.png"
+    },
+    {
+      "id": "6",
+      "name": "Lunges",
+      "category": "Lower Body",
+      "difficulty": "Intermediate",
+      "description": "1.Step forward with one leg. 2.Lower your body until your rear knee nearly touches the ground. 3.Ensure you remain upright, and your front knee stay above the front foot. 4.Push off the floor with your front foot until you return to the starting position. Switch legs.",
+      "likes": 0,
+      "dislikes": 0,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2022/04/bodyweight-lunge-768x478.png"
+    },
+    {
+      "id": "7",
+      "name": "Crunches",
+      "category": "Core",
+      "difficulty": "Beginner",
+      "description": "1.Lay flat on your back with your knees bent and your feet flat on the ground, about a foot from your lower back. 2.Place your fingertips on your temples with your palms facing out. 3.Draw your belly into the base of your spine to engage the muscles, then raise your head and shoulders off the floor. Return to starting position and repeat.",
+      "likes": 2,
+      "dislikes": 0,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/crunch-muscles-768x195.png"
+    },
+    {
+      "id": "8",
+      "name": "Biceps Curls",
+      "category": "Upper Body",
+      "difficulty": "Beginner",
+      "description": "1.Raise one dumbbell and twist your forearm until it is vertical and your palm faces the shoulder. 2.Lower to original position and repeat with opposite arm",
+      "likes": 20,
+      "dislikes": 1,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2024/01/lateral-bicep-curl-muscles-1024x721.png"
+    },
+    {
+      "id": "9",
+      "name": "Deadlift",
+      "category": "Lower Body",
+      "difficulty": "Advanced",
+      "description": "1.Stand with your mid-foot under the bar and grip the bar with your hands, about a shoulder width apart. 2.Bend your knees, then lift the bar by straightening your back. It is important to keep your back straight. 3.Stand to your full height and hold.4.Lower the bar to the floor by bending your knees and keeping your back straight.",
+      "likes": 0,
+      "dislikes": 0,
+      "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2023/10/deficit-deadlift-muscles-768x456.png"
+    }
+  
+  ]
+}

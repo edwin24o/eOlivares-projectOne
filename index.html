@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PRACTICUM</h1>
+            <div class="filters">
+                <label for="category-filter">Filter by Category:</label>
+                <select id="category-filter">
+                    <option value="All">All</option>
+                    <option value="Upper Body">Upper Body</option>
+                    <option value="Lower Body">Lower Body</option>
+                    <option value="Core">Core</option>
+                </select>
+                <label for="difficulty-filter">Filter by Difficulty:</label>
+                <select id="difficulty-filter">
+                    <option value="All">All</option>
+                    <option value="Beginner">Beginner</option>
+                    <option value="Intermediate">Intermediate</option>
+                    <option value="Advanced">Advanced</option>
+                </select>
+            </div>
+        </header>
+        <div id="add-exercise-form">
+            <h2>CREATE</h2>
+            <input type="text" id="exercise-name" placeholder="Exercise Name">
+            <input type="text" id="exercise-category" placeholder="Category">
+            <input type="text" id="exercise-difficulty" placeholder="Difficulty">
+            <input type="text" id="exercise-description" placeholder="Description">
+            <input type="text" id="exercise-image" placeholder="Image URL">
+            <button id="add-exercise-btn">Add Exercise</button>
+        </div>
+        <div id="exercise-list"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
